@@ -20,7 +20,4 @@ A modern desktop application built with Python and CustomTkinter that generates 
    ```bash
    pip install customtkinter
    ```
-3. Run the application:
-   ```bash
-   python main.py
-   ```
+3. Run the application
