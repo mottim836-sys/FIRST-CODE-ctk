@@ -4,8 +4,8 @@ A modern desktop application built with Python and CustomTkinter that generates 
 
 ## 📸 Screenshot
 <!-- Замени screenshot.png на имя своего файла -->
-<img src="image_2026-06-16_23-44-48.jpg" alt="App Preview" width="600"/>
-<img src="image_2026-06-16_23-44-46.jpg" alt="App Preview" width="600"/>
+![Password](view/image_2026-06-16_23-44-48.jpg)
+![Format](view/image_2026-06-16_23-44-46.jpg)
 
 ## ✨ Features
 *   **Modern UI:** Built using CustomTkinter with a sleek dark/green hacker theme.
